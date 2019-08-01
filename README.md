@@ -4,7 +4,9 @@
 ![stability-wip](https://img.shields.io/badge/stability-stable-green.svg?style=for-the-badge)
 ![PyPI](https://img.shields.io/pypi/v/pyTesy.svg?color=green&style=for-the-badge)
 
-# pyShelly
+# pyTesy
 
 Library for Tesy smart home devices.
 
+# Support devices
+- Water heater

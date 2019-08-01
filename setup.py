@@ -9,7 +9,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyTesy",
-    version="0.0.1",
+    version="0.0.3",
     author="StyraHem / Tarra AB",
     author_email="info@styrahem.se",
     description="Library for Tesy smart home devices",
