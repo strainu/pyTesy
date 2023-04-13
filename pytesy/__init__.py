@@ -14,7 +14,7 @@ NAME = "pytesy"
 VERSION = __version__
 
 _LOGGER = logging.getLogger(NAME)
-TESY_URL = "https://www.mytesy.com/"
+TESY_URL = "https://www.mytesy.com/v3/api.php"
 
 class PyTesyDevice():
     def __init__(self, parent, data):
