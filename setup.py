@@ -9,7 +9,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pyTesyCloud",
-    version="0.0.3",
+    version="0.0.4",
     author="Strainu",
     author_email="pypi@strainu.ro",
     description="Library for Tesy smart home devices. Based on StyraHem/pyTesy",
